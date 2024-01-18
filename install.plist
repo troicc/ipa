@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.0.108:8000/x.ipa</string>
+                        <string>http://192.168.0.108:8000/WeChat.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.atebits.Tweetie2</string>
+                    <string>com.tencent.xin</string>
                     <key>bundle-version</key>
-                    <string>10.0</string>
+                    <string>6.6.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>x</string>
+                    <string>WeChat</string>
                 </dict>
             </dict>
         </array>
