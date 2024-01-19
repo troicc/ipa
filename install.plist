@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.0.108:8000/网易云音乐.ipa</string>
+                        <string>http://192.168.0.108:8000/NetEase Music.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -23,7 +23,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>网易云音乐</string>
+                    <string>NetEase Music</string>
                 </dict>
             </dict>
         </array>
