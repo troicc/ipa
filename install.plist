@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.0.108:8000/WeChat.ipa</string>
+                        <string>http://192.168.0.108:8000/网易云音乐.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.tencent.xin</string>
+                    <string>com.netease.cloudmusic</string>
                     <key>bundle-version</key>
-                    <string>6.6.1</string>
+                    <string>3.1.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>WeChat</string>
+                    <string>网易云音乐</string>
                 </dict>
             </dict>
         </array>
