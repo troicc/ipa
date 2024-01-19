@@ -17,7 +17,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.netease.cloudmusic</string>
+                    <string>Whocares.ant.Extension</string>
                     <key>bundle-version</key>
                     <string>3.1.1</string>
                     <key>kind</key>
