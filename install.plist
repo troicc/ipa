@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.0.105:8000/NetEaseMusic.ipa</string>
+                        <string>http://192.168.0.105:8000/misaka.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.netease.cloudmusic</string>
+                    <string>com.straight-tamago.misakaRS</string>
                     <key>bundle-version</key>
-                    <string>3.1.1</string>
+                    <string>8.2.4</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>NetEaseMusic</string>
+                    <string>misaka</string>
                 </dict>
             </dict>
         </array>
