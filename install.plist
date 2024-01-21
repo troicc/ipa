@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.0.105:8000/misaka.ipa</string>
+                        <string>http://192.168.0.105:8000/douban.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.straight-tamago.misakaRS</string>
+                    <string>com.douban.frodo</string>
                     <key>bundle-version</key>
-                    <string>8.2.4</string>
+                    <string>4.1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>misaka</string>
+                    <string>douban</string>
                 </dict>
             </dict>
         </array>
